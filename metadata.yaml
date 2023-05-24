@@ -10,6 +10,9 @@ contributor:
     deathdate: 1948
     gutenberg_agent_id: '37319'
     url: http://www.gutenberg.org/2009/agents/37319
+covers:
+- cover_type: archival
+  image_path: 70634-h/images/cover.jpg
 creator:
   author:
     agent_name: Van Dine, S. S.
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/S._S._Van_Dine
     - https://www.gutenberg.org/ebooks/author/9220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70634#The-Benson-murder-case
 gutenberg_issued: '2023-04-23'
 identifiers:
   gutenberg: '70634'
